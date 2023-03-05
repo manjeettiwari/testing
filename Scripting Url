@@ -1,0 +1,34 @@
+AWS
+DevOps
+unix Scripting
+Database
+-sql
+-oracle
+-mysql
+-teradata
+
+
+git----
+
+unix-------------
+
+devops
+
+uplod file local to server git
+
+1 --- create new file 
+2- git add . 
+3- git commit -m "hello this is new file"
+4- git push
+5- git status
+
+////////////////////////////////////
+git srever to local
+
+1 - git pull -a
+
+2 - git checkout branch name
+
+3 - git pull -a
+
+
